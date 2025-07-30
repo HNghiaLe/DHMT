@@ -16,7 +16,7 @@ float planePosX = -90.0f, planePosY = -0.5f, planePosZ = 0.0f;
 float planeYaw = 0.0f;
 float planePitch = 0.0f;
 float planeRoll = 0.0f;
-float speed = 0.05f; // Tăng tốc độ một chút
+float speed = 0.5; // Tăng tốc độ một chút
 bool turningLeft = false;
 bool turningRight = false;
 int cameraMode = 1;
